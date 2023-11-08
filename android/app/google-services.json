@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "451277586343",
+    "firebase_url": "https://data-a1b13-default-rtdb.firebaseio.com",
+    "project_id": "data-a1b13",
+    "storage_bucket": "data-a1b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451277586343:android:406aae020627575b69c082",
+        "android_client_info": {
+          "package_name": "com.hoanmyservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451277586343-ahk412ug3fgfjhhujt9hb7rifbcu63p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqN1ztJAquHXO8ZFIFqwW2rRHNvXnsuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451277586343-ahk412ug3fgfjhhujt9hb7rifbcu63p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451277586343:android:d13bd4b92272e44169c082",
+        "android_client_info": {
+          "package_name": "com.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451277586343-ahk412ug3fgfjhhujt9hb7rifbcu63p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqN1ztJAquHXO8ZFIFqwW2rRHNvXnsuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451277586343-ahk412ug3fgfjhhujt9hb7rifbcu63p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451277586343:android:11721d8387502e8769c082",
+        "android_client_info": {
+          "package_name": "com.swipeout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451277586343-schvq2752ai640smr673s7lumr79f2nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swipeout",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "451277586343-ahk412ug3fgfjhhujt9hb7rifbcu63p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqN1ztJAquHXO8ZFIFqwW2rRHNvXnsuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451277586343-ahk412ug3fgfjhhujt9hb7rifbcu63p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
